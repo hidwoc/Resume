@@ -1,0 +1,23 @@
+{
+  "name": "Heidi Choi",
+  "website": "",
+  "linkedin": "https://www.linkedin.com/in/heidischoi/",
+  "github": "hidwoc",
+  "email": "heidischoi@gmail.com",
+  "resume": "",
+  "proficientTechnologies": [
+      "Javascript",
+      "HTML",
+      "CSS",
+      "Python",
+      "Microsoft Excel",
+      "GSuite"
+  ],
+  "otherSkills": [
+      "Project Management",
+      "Fermenting Kimchi",
+      "Cooking",
+      "Yoga",
+      "Biking"
+  ]
+}
